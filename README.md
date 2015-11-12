@@ -28,12 +28,12 @@ A category of UIImage
   Equipment:4-->.png   4s-->@2x.png   5(S)-->-568h@2x.png    6(s)-->-667h@2x.png   6P(s)-->@3x.png
   Method of use:[UIImage imageNamed:@"demo"];(in accordance with system approach does not need to change, Don't need to modify the code)
 
-2. Add some commonly used methods
+2.Add some commonly used methods
   The tensile
   The screenshots
   The fuzzy
   Specify the location to add watermark
   Use color to generate images
 
-3. If you feel good, later will continue to add commonly used functions
+3.If you feel good, later will continue to add commonly used functions
 
