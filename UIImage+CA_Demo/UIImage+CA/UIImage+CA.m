@@ -15,6 +15,8 @@
 //4-->.png   4s-->@2x.png   5(S)-->-568h@2x.png    6(s)-->-667h@2x.png   6P(s)-->@3x.png
 //也可根据自己的需求定制修改
 
+#define SCREEN_BOUNCE ([[UIScreen mainScreen] bounds])
+
 #define __Device_Iphone_5__ (SCREEN_BOUNCE.size.height == 568)
 #define __Device_Iphone_6__ (SCREEN_BOUNCE.size.height == 667)
 
